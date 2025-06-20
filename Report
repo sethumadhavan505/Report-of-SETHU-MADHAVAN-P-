@@ -1,0 +1,27 @@
+Project Title: Smart AI Resume Builder  
+InternshReport of SETHU MADHAVAN P ip Duration: May 26, 2025 – June 26, 2025  
+Role: Web Development Intern  
+Domain: Frontend Development & Intelligent Web Applications  
+Tech Stack: HTML5, CSS3, JavaScript, Python, GPT APIs, Firebase, React.js, JSON, Natural Language Processing (NLP)
+
+Project Objective
+To develop a user-friendly, AI-powered resume builder web application that assists users in creating customized, ATS-compliant resumes. The system utilizes GPT-based intelligence to enhance content quality, match keywords to job descriptions, and improve design aesthetics.
+
+Key Features
+- AI-generated bullet points for work experience and achievements  
+- Smart keyword matching and skill recommendation based on job roles  
+- Clean, responsive UI with template-switching capability  
+- Export formats in PDF and DOCX with preview option  
+- Real-time performance feedback and resume score suggestions
+
+Your Responsibilities
+- Designed and implemented responsive UI using HTML, CSS Flexbox/Grid, and vanilla JavaScript  
+- Integrated AI APIs (GPT) to generate content suggestions dynamically  
+- Utilized Python to build logic for parsing resumes and job descriptions  
+- Managed user data with Firebase for secure CRUD operations  
+- Conducted unit testing and optimized DOM manipulation for improved user experience
+
+Outcome & Impact
+- Successfully enabled 500+ users to generate resumes during beta launch  
+- Reduced resume creation time by 70%
+- Received user praise for clarity of design, smart suggestions, and overall usability.
